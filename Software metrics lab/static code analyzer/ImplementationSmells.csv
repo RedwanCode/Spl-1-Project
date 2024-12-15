@@ -1,0 +1,165 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+Face-recognition-voting,Spl_project,CropppingOfImage,components,Long Statement,The length of the statement "Imgproc.rectangle(image`new Point(rect.x`rect.y)`new Point(rect.x + rect.width`rect.y + rect.height)`new Scalar(0`255`0));" is 122.,30
+Face-recognition-voting,Spl_project,CropppingOfImage,components,Magic Number,The method contains a magic number: 255,30
+Face-recognition-voting,Spl_project,CropppingOfImage,components,Magic Number,The method contains a magic number: 250,30
+Face-recognition-voting,Spl_project,CropppingOfImage,components,Magic Number,The method contains a magic number: 250,30
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,percentage_checking,Magic Number,The method contains a magic number: 250,9
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,percentage_checking,Magic Number,The method contains a magic number: 250,9
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,percentage_checking,Magic Number,The method contains a magic number: 100,9
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,percentage_checking,Magic Number,The method contains a magic number: 250,9
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,percentage_checking,Magic Number,The method contains a magic number: 250,9
+Face-recognition-voting,Spl_project,HistogramEqui,components,Magic Number,The method contains a magic number: 3,22
+Face-recognition-voting,Spl_project,HistogramEqui,components,Magic Number,The method contains a magic number: 3,22
+Face-recognition-voting,Spl_project,ImageLoad,work,Complex Method,Cyclomatic complexity of the method is 9,56
+Face-recognition-voting,Spl_project,ImageLoad,work,Empty catch clause,The method has an empty catch block.,56
+Face-recognition-voting,Spl_project,ImageLoad,work,Empty catch clause,The method has an empty catch block.,56
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 8,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 2,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 3,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 4,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 5,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 6,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 7,30
+Face-recognition-voting,Spl_project,ImageToPixel,lbp_pixel,Magic Number,The method contains a magic number: 8,30
+Face-recognition-voting,Spl_project,ImageToPixel,convertToArrayLocation,Magic Number,The method contains a magic number: 256,55
+Face-recognition-voting,Spl_project,ImageToPixel,getpixel,Magic Number,The method contains a magic number: 0xFF,108
+Face-recognition-voting,Spl_project,WebcameCapture,web,Magic Number,The method contains a magic number: 640,23
+Face-recognition-voting,Spl_project,WebcameCapture,web,Magic Number,The method contains a magic number: 480,23
+Face-recognition-voting,Spl_project,WebcameCapture,web,Magic Number,The method contains a magic number: 10000,23
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 700,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 500,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 50,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 50,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 49,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 700,18
+Face-recognition-voting,Spl_project,AdminMainClass,main,Magic Number,The method contains a magic number: 500,18
+Face-recognition-voting,Spl_project,AdminPanel,components,Complex Conditional,The conditional expression !" ".equals(str1) && !"".equals(str2) && !"".equals(str3)&& !"".equals(str4)&& !"".equals(str5) is complex.,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Complex Method,Cyclomatic complexity of the method is 15,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Empty catch clause,The method has an empty catch block.,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Long Method,The method has 301 lines of code.,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 150,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 45,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 25,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 9,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 2,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 6,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 6,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 18,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 15,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 15,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 20,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 3,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 100,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 100,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 4,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 700,56
+Face-recognition-voting,Spl_project,AdminPanel,components,Magic Number,The method contains a magic number: 500,56
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Complex Conditional,The conditional expression !" ".equals(str1) && !"".equals(str2) && !"".equals(str3)&& !"".equals(str4)&& !"".equals(str5) is complex.,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Empty catch clause,The method has an empty catch block.,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Magic Number,The method contains a magic number: 100,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Magic Number,The method contains a magic number: 100,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Magic Number,The method contains a magic number: 4,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Magic Number,The method contains a magic number: 700,458
+Face-recognition-voting,Spl_project,AdminPanel,actionPerformed,Magic Number,The method contains a magic number: 500,458
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 150,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 100,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 5,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 18,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 3,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 15,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 280,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,components,Magic Number,The method contains a magic number: 150,39
+Face-recognition-voting,Spl_project,EndingPageOfVoter,actionPerformed,Magic Number,The method contains a magic number: 280,139
+Face-recognition-voting,Spl_project,EndingPageOfVoter,actionPerformed,Magic Number,The method contains a magic number: 150,139
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 15,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 20,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 90,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 30,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 15,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 110,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 20,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 150,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 30,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 15,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 40,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 60,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 85,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 30,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 15,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 148,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 60,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 85,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 30,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 700,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 500,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 700,48
+Face-recognition-voting,Spl_project,PasswordCheck,components,Magic Number,The method contains a magic number: 500,48
+Face-recognition-voting,Spl_project,PasswordCheck,actionPerformed,Magic Number,The method contains a magic number: 700,113
+Face-recognition-voting,Spl_project,PasswordCheck,actionPerformed,Magic Number,The method contains a magic number: 500,113
+Face-recognition-voting,Spl_project,PasswordCheck,actionPerformed,Magic Number,The method contains a magic number: 700,166
+Face-recognition-voting,Spl_project,PasswordCheck,actionPerformed,Magic Number,The method contains a magic number: 500,166
+Face-recognition-voting,Spl_project,ResultPanel,components,Long Method,The method has 159 lines of code.,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 50,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 100,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 18,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 3,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 20,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 3,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 3,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 6,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 24,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 24,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 24,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 700,50
+Face-recognition-voting,Spl_project,ResultPanel,components,Magic Number,The method contains a magic number: 500,50
+Face-recognition-voting,Spl_project,ResultPanel,actionPerformed,Magic Number,The method contains a magic number: 700,301
+Face-recognition-voting,Spl_project,ResultPanel,actionPerformed,Magic Number,The method contains a magic number: 500,301
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 150,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 100,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 5,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 18,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 3,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 15,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 280,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,components,Magic Number,The method contains a magic number: 150,45
+Face-recognition-voting,Spl_project,StartingPageOfVoter,actionPerformed,Magic Number,The method contains a magic number: 280,145
+Face-recognition-voting,Spl_project,StartingPageOfVoter,actionPerformed,Magic Number,The method contains a magic number: 150,145
+Face-recognition-voting,Spl_project,UserMainClass,main,Magic Number,The method contains a magic number: 700,15
+Face-recognition-voting,Spl_project,UserMainClass,main,Magic Number,The method contains a magic number: 500,15
+Face-recognition-voting,Spl_project,UserPanel,components,Empty catch clause,The method has an empty catch block.,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 150,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 100,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 6,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 18,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 14,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 3,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 5.68,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 700,41
+Face-recognition-voting,Spl_project,UserPanel,components,Magic Number,The method contains a magic number: 500,41
+Face-recognition-voting,Spl_project,UserPanel,actionPerformed,Empty catch clause,The method has an empty catch block.,159
+Face-recognition-voting,Spl_project,UserPanel,actionPerformed,Magic Number,The method contains a magic number: 5.68,159
+Face-recognition-voting,Spl_project,UserPanel,actionPerformed,Magic Number,The method contains a magic number: 700,159
+Face-recognition-voting,Spl_project,UserPanel,actionPerformed,Magic Number,The method contains a magic number: 500,159
+Face-recognition-voting,Spl_project,VoterPanel,components,Empty catch clause,The method has an empty catch block.,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Empty catch clause,The method has an empty catch block.,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Empty catch clause,The method has an empty catch block.,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Long Method,The method has 153 lines of code.,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 50,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 100,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 3,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 18,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 20,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 3,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 3,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 6,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 700,40
+Face-recognition-voting,Spl_project,VoterPanel,components,Magic Number,The method contains a magic number: 500,40
+Face-recognition-voting,Spl_project,VoterPanel,actionPerformed,Empty catch clause,The method has an empty catch block.,238
+Face-recognition-voting,Spl_project,VoterPanel,actionPerformed,Empty catch clause,The method has an empty catch block.,268
+Face-recognition-voting,Spl_project,VoterPanel,actionPerformed,Empty catch clause,The method has an empty catch block.,292
+Face-recognition-voting,Spl_project,VoterPanel,actionPerformed,Magic Number,The method contains a magic number: 700,316
+Face-recognition-voting,Spl_project,VoterPanel,actionPerformed,Magic Number,The method contains a magic number: 500,316
+Face-recognition-voting,Spl_project,WelcomePage,components,Magic Number,The method contains a magic number: 150,39
+Face-recognition-voting,Spl_project,WelcomePage,components,Magic Number,The method contains a magic number: 50,39
+Face-recognition-voting,Spl_project,WelcomePage,components,Magic Number,The method contains a magic number: 2,39
+Face-recognition-voting,Spl_project,WelcomePage,components,Magic Number,The method contains a magic number: 20,39

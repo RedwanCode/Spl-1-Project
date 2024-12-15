@@ -1,0 +1,17 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT,File path,Line no
+Face-recognition-voting,Spl_project,CropppingOfImage,0,0,2,2,24,3,0,0,-1.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\CropppingOfImage.java,21
+Face-recognition-voting,Spl_project,FaceSimillarityPercentage,0,0,1,1,14,4,0,0,-1.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\FaceSimillarityPercentage.java,6
+Face-recognition-voting,Spl_project,HistogramEqui,0,0,2,2,24,2,0,0,-1.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\HistogramEqui.java,14
+Face-recognition-voting,Spl_project,ImageLoad,6,0,3,3,92,15,0,0,0.0,1,5,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\ImageLoad.java,15
+Face-recognition-voting,Spl_project,ImageToPixel,0,0,5,4,74,14,0,0,-1.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\ImageToPixel.java,18
+Face-recognition-voting,Spl_project,WebcameCapture,0,0,1,1,21,2,0,0,-1.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\FaceRecognition\WebcameCapture.java,21
+Face-recognition-voting,Spl_project,AdminMainClass,0,0,1,1,22,3,0,0,-1.0,0,2,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\AdminMainClass.java,17
+Face-recognition-voting,Spl_project,AdminPanel,29,0,3,3,313,20,0,0,0.0,2,1,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\AdminPanel.java,32
+Face-recognition-voting,Spl_project,EndingPageOfVoter,6,0,3,3,72,3,0,0,0.6666666666666666,1,1,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\EndingPageOfVoter.java,22
+Face-recognition-voting,Spl_project,PasswordCheck,6,0,4,4,86,8,0,0,0.5,1,2,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\PasswordCheck.java,28
+Face-recognition-voting,Spl_project,ResultPanel,15,0,3,3,170,8,0,0,0.6666666666666666,1,1,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\ResultPanel.java,28
+Face-recognition-voting,Spl_project,StartingPageOfVoter,6,0,3,3,75,3,0,0,0.6666666666666666,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\StartingPageOfVoter.java,23
+Face-recognition-voting,Spl_project,UserMainClass,0,0,1,1,10,1,0,0,-1.0,0,1,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\UserMainClass.java,12
+Face-recognition-voting,Spl_project,UserPanel,10,0,3,3,101,9,0,0,0.6666666666666666,2,2,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\UserPanel.java,23
+Face-recognition-voting,Spl_project,VoterPanel,12,0,6,6,162,6,0,0,0.3333333333333333,1,1,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\VoterPanel.java,23
+Face-recognition-voting,Spl_project,WelcomePage,5,5,2,2,34,2,0,0,0.0,1,0,F:\exam\6th semester\LAB\Software Metrics\final check\Joy\Face-recognition-voting\UserInterface\WelcomePage.java,19
